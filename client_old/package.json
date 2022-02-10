@@ -17,7 +17,7 @@
     "froala-editor": "^2.7.1",
     "lodash": "^4.17.4",
     "moment": "^2.19.1",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "quasar-extras": "0.x",
     "quasar-framework": "^0.14.6",
     "sass-loader": "^6.0.6",
