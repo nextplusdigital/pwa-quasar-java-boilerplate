@@ -24,7 +24,7 @@
     "js-cache": "^1.0.2",
     "lodash": "latest",
     "moment": "^2.19.1",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "quasar-extras": "0.x",
     "quasar-framework": "^0.14.7",
     "sass-loader": "^6.0.6",
