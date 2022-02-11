@@ -17,7 +17,7 @@
     "axios-cancel": "^0.2.2",
     "babel-runtime": "^6.25.0",
     "bulma": "^0.6.0",
-    "froala-editor": "^2.7.1",
+    "froala-editor": "^4.0.7",
     "fullcalendar": "^3.6.2",
     "genesis": "github:phpzm/genesis#0.0.4",
     "jquery": "^3.2.1",
